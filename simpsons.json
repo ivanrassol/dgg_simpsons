@@ -1,0 +1,294 @@
+{
+  "Characters": [
+    {
+      "URL": "https://duckduckgo.com/Apu_Nahasapeemapetilon",
+      "Icon": "https://duckduckgo.com/i/99b04638.png",
+      "Name": "Apu Nahasapeemapetilon"
+    },
+    {
+      "URL": "https://duckduckgo.com/Barney_Gumble",
+      "Icon": "https://duckduckgo.com/i/39ce98c0.png",
+      "Name": "Barney Gumble"
+    },
+    {
+      "URL": "https://duckduckgo.com/Bart_Simpson",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Bart Simpson"
+    },
+    {
+      "URL": "https://duckduckgo.com/Bleeding_Gums_Murphy",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Bleeding Gums Murphy"
+    },
+    {
+      "URL": "https://duckduckgo.com/Chief_Wiggum",
+      "Icon": "https://duckduckgo.com/i/f0eb79ee.png",
+      "Name": "Chief Wiggum"
+    },
+    {
+      "URL": "https://duckduckgo.com/Cletus_Spuckler",
+      "Icon": "https://duckduckgo.com/i/4d663a85.gif",
+      "Name": "Cletus Spuckler"
+    },
+    {
+      "URL": "https://duckduckgo.com/Comic_Book_Guy",
+      "Icon": "https://duckduckgo.com/i/911ab519.png",
+      "Name": "Comic Book Guy"
+    },
+    {
+      "URL": "https://duckduckgo.com/Declan_Desmond",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Declan Desmond"
+    },
+    {
+      "URL": "https://duckduckgo.com/Disco_Stu",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Disco Stu"
+    },
+    {
+      "URL": "https://duckduckgo.com/Drederick_Tatum",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Drederick Tatum"
+    },
+    {
+      "URL": "https://duckduckgo.com/Dr._Hibbert",
+      "Icon": "https://duckduckgo.com/i/c9497b7e.png",
+      "Name": "Dr. Hibbert"
+    },
+    {
+      "URL": "https://duckduckgo.com/Dr._Nick",
+      "Icon": "https://duckduckgo.com/i/db757c91.png",
+      "Name": "Dr. Nick"
+    },
+    {
+      "URL": "https://duckduckgo.com/Dr._Velimirovic",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Dr. Velimirovic"
+    },
+    {
+      "URL": "https://duckduckgo.com/Duffman",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Duffman"
+    },
+    {
+      "URL": "https://duckduckgo.com/Edna_Krabappel",
+      "Icon": "https://duckduckgo.com/i/1bdfff5e.png",
+      "Name": "Edna Krabappel"
+    },
+    {
+      "URL": "https://duckduckgo.com/Fat_Tony_(The_Simpsons)",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Fat Tony"
+    },
+    {
+      "URL": "https://duckduckgo.com/Grampa_Simpson",
+      "Icon": "https://duckduckgo.com/i/7b1c968b.png",
+      "Name": "Grampa Simpson"
+    },
+    {
+      "URL": "https://duckduckgo.com/Groundskeeper_Willie",
+      "Icon": "https://duckduckgo.com/i/f845601f.png",
+      "Name": "Groundskeeper Willie"
+    },
+    {
+      "URL": "https://duckduckgo.com/Hans_Moleman",
+      "Icon": "https://duckduckgo.com/i/9f651728.png",
+      "Name": "Hans Moleman"
+    },
+    {
+      "URL": "https://duckduckgo.com/Homer_Simpson",
+      "Icon": "https://duckduckgo.com/i/bf0eb228.png",
+      "Name": "Homer Simpson"
+    },
+    {
+      "URL": "https://duckduckgo.com/Itchy_(The_Simpsons)",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Itchy"
+    },
+    {
+      "URL": "https://duckduckgo.com/Jimbo_Jones",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Jimbo Jones"
+    },
+    {
+      "URL": "https://duckduckgo.com/Judge_Constance_Harm",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Judge Constance Harm"
+    },
+    {
+      "URL": "https://duckduckgo.com/Kang_and_Kodos",
+      "Icon": "https://duckduckgo.com/i/be84f45b.png",
+      "Name": "Kang and Kodos"
+    },
+    {
+      "URL": "https://duckduckgo.com/Kearney_Zzyzwicz",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Kearney Zzyzwicz"
+    },
+    {
+      "URL": "https://duckduckgo.com/Kent_Brockman",
+      "Icon": "https://duckduckgo.com/i/b6c36d00.jpg",
+      "Name": "Kent Brockman"
+    },
+    {
+      "URL": "https://duckduckgo.com/Krusty_the_Clown",
+      "Icon": "https://duckduckgo.com/i/caa07f01.png",
+      "Name": "Krusty the Clown"
+    },
+    {
+      "URL": "https://duckduckgo.com/Lenny_and_Carl",
+      "Icon": "https://duckduckgo.com/i/cde0d56a.png",
+      "Name": "Lenny and Carl"
+    },
+    {
+      "URL": "https://duckduckgo.com/Lionel_Hutz",
+      "Icon": "https://duckduckgo.com/i/94d72e52.jpg",
+      "Name": "Lionel Hutz"
+    },
+    {
+      "URL": "https://duckduckgo.com/Lisa_Simpson",
+      "Icon": "https://duckduckgo.com/i/0c6d3b53.png",
+      "Name": "Lisa Simpson"
+    },
+    {
+      "URL": "https://duckduckgo.com/Maggie_Simpson",
+      "Icon": "https://duckduckgo.com/i/c018dead.png",
+      "Name": "Maggie Simpson"
+    },
+    {
+      "URL": "https://duckduckgo.com/Marge_Simpson",
+      "Icon": "https://duckduckgo.com/i/b75bd67d.png",
+      "Name": "Marge Simpson"
+    },
+    {
+      "URL": "https://duckduckgo.com/Mayor_Quimby",
+      "Icon": "https://duckduckgo.com/i/93d80e95.png",
+      "Name": "Mayor Quimby"
+    },
+    {
+      "URL": "https://duckduckgo.com/Milhouse_Van_Houten",
+      "Icon": "https://duckduckgo.com/i/c1923cb1.png",
+      "Name": "Milhouse Van Houten"
+    },
+    {
+      "URL": "https://duckduckgo.com/Moe_Szyslak",
+      "Icon": "https://duckduckgo.com/i/388580ad.png",
+      "Name": "Moe Szyslak"
+    },
+    {
+      "URL": "https://duckduckgo.com/Mona_Simpson_(The_Simpsons)",
+      "Icon": "https://duckduckgo.com/i/d6efc652.png",
+      "Name": "Mona Simpson"
+    },
+    {
+      "URL": "https://duckduckgo.com/Mr._Burns",
+      "Icon": "https://duckduckgo.com/i/cf311517.png",
+      "Name": "Mr. Burns"
+    },
+    {
+      "URL": "https://duckduckgo.com/Nahasapeemapetilon_octuplets",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Nahasapeemapetilon octuplets"
+    },
+    {
+      "URL": "https://duckduckgo.com/Ned_Flanders",
+      "Icon": "https://duckduckgo.com/i/ad454204.png",
+      "Name": "Ned Flanders"
+    },
+    {
+      "URL": "https://duckduckgo.com/Nelson_Muntz",
+      "Icon": "https://duckduckgo.com/i/23702790.png",
+      "Name": "Nelson Muntz"
+    },
+    {
+      "URL": "https://duckduckgo.com/Otto_Mann",
+      "Icon": "https://duckduckgo.com/i/9efe5c40.gif",
+      "Name": "Otto Mann"
+    },
+    {
+      "URL": "https://duckduckgo.com/Patty_and_Selma",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Patty and Selma"
+    },
+    {
+      "URL": "https://duckduckgo.com/Plopper",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Plopper"
+    },
+    {
+      "URL": "https://duckduckgo.com/Principal_Skinner",
+      "Icon": "https://duckduckgo.com/i/785a66ec.png",
+      "Name": "Principal Skinner"
+    },
+    {
+      "URL": "https://duckduckgo.com/Professor_Frink",
+      "Icon": "https://duckduckgo.com/i/c9dc0e13.png",
+      "Name": "Professor Frink"
+    },
+    {
+      "URL": "https://duckduckgo.com/Radioactive_Man_(The_Simpsons_character)",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Radioactive Man Simpsons"
+    },
+    {
+      "URL": "https://duckduckgo.com/Ralph_Wiggum",
+      "Icon": "https://duckduckgo.com/i/2f9c97eb.png",
+      "Name": "Ralph Wiggum"
+    },
+    {
+      "URL": "https://duckduckgo.com/Reverend_Lovejoy",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Reverend Lovejoy"
+    },
+    {
+      "URL": "https://duckduckgo.com/Roger_Meyers%2C_Sr.",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Roger Meyers, Sr."
+    },
+    {
+      "URL": "https://duckduckgo.com/Santa's_Little_Helper",
+      "Icon": "https://duckduckgo.com/i/6825f3f5.png",
+      "Name": "Santa's Little Helper"
+    },
+    {
+      "URL": "https://duckduckgo.com/Sideshow_Bob",
+      "Icon": "https://duckduckgo.com/i/922b6a1c.png",
+      "Name": "Sideshow Bob"
+    },
+    {
+      "URL": "https://duckduckgo.com/Sideshow_Mel",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Sideshow Mel"
+    },
+    {
+      "URL": "https://duckduckgo.com/Simpson_family",
+      "Icon": "https://duckduckgo.com/i/d58b5fe4.png",
+      "Name": "Simpson family"
+    },
+    {
+      "URL": "https://duckduckgo.com/Snake_Jailbird",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Snake Jailbird"
+    },
+    {
+      "URL": "https://duckduckgo.com/Snowball_(The_Simpsons)",
+      "Icon": "https://duckduckgo.com",
+      "Name": "Snowball"
+    },
+    {
+      "URL": "https://duckduckgo.com/The_Itchy_%26_Scratchy_Show",
+      "Icon": "https://duckduckgo.com/i/bc74928e.jpg",
+      "Name": "The Itchy & Scratchy Show"
+    },
+    {
+      "URL": "https://duckduckgo.com/Troy_McClure",
+      "Icon": "https://duckduckgo.com/i/20433a15.png",
+      "Name": "Troy McClure"
+    },
+    {
+      "URL": "https://duckduckgo.com/Waylon_Smithers",
+      "Icon": "https://duckduckgo.com/i/12f25a94.png",
+      "Name": "Waylon Smithers"
+    }
+  ]
+}
